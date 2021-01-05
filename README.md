@@ -7,4 +7,5 @@
 转载地址：https://blog.csdn.net/wzc2608/category_7711075.html
 
 P18之后本人亲写，欢迎联系我讨论，一起共同学习，本人研一，今年开始自学C++，在学期间主方向Segment Routing和Linux内核网络协议栈。
+qq：1041538939
 
